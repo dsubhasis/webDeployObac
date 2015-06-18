@@ -51,5 +51,46 @@
   		<artifactId>jersey-core</artifactId>
   		<version>1.19</version>
   	</dependency>
+  	<dependency>
+  		<groupId>obac-1.0</groupId>
+  		<artifactId>obac-1.0</artifactId>
+  		<version>1.0</version>
+  	</dependency>
+  	<dependency>
+	<groupId>org.slf4j</groupId>
+	<artifactId>slf4j-api</artifactId>
+	<version>1.7.12</version>
+</dependency>
+<dependency>
+	<groupId>org.apache.jena</groupId>
+	<artifactId>jena-core</artifactId>
+	<version>2.13.0</version>
+</dependency>
+<dependency>
+	<groupId>org.apache.jena</groupId>
+	<artifactId>jena-arq</artifactId>
+	<version>2.13.0</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.jena</groupId>
+    <artifactId>jena-tdb</artifactId>
+    <version>1.1.2</version>
+</dependency>
+<dependency>
+  <groupId>sunxacml-1.0</groupId>
+  <artifactId>sunxacml-1.0</artifactId>
+  <version>1.0</version>
+</dependency>
+
+  	<dependency>
+  		<groupId>virtjdbc-4.0</groupId>
+  		<artifactId>virtjdbc-4.0</artifactId>
+  		<version>4.0</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>virt_jena-2.0</groupId>
+  		<artifactId>virt_jena-2.0</artifactId>
+  		<version>2.0</version>
+  	</dependency>
   </dependencies>
 </project>

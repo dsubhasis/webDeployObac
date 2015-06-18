@@ -1,0 +1,14 @@
+mvn install:install-file -Dfile=/Users/subhasis/Documents/workspace/obac/build/jar/obac-1.0.jar -DgroupId=obac-1.0 -DartifactId=obac-1.0 -Dversion=1.0 -Dpackaging=jar -DgeneratePom=true
+http://www.semanticweb.org/subhasis/ontologies/2014/6/untitled-ontology-15#Business
+DL-Concept19
+
+
+http://localhost:8080/obacWEB/crunchify/bookservices/2011;group="http\:\/\/www.semanticweb.org\/subhasis\/ontologies\/2014\/6\/untitled-ontology-15#Business";concept="DL-Concept19%22
+
+mvn install:install-file -Dfile=/Users/subhasis/Documents/finalWorkSpace/obac/lib/virtjdbc4.jar -DgroupId=virtjdbc-4.0 -DartifactId=virtjdbc-4.0 -Dversion=4.0 -Dpackaging=jar -DgeneratePom=true
+
+/Users/subhasis/Documents/finalWorkSpace/obac/lib
+
+
+mvn install:install-file -Dfile=/Users/subhasis/Documents/finalWorkSpace/obac/lib/virtjdbc4.jar -DgroupId=virtjdbc-4.0 -DartifactId=virtjdbc-4.0 -Dversion=4.0 -Dpackaging=jar -DgeneratePom=true
+mvn install:install-file -Dfile=/Users/subhasis/Documents/finalWorkSpace/obac/lib/virt_jena2.jar -DgroupId=virt_jena-2.0 -DartifactId=virt_jena-2.0 -Dversion=2.0 -Dpackaging=jar -DgeneratePom=true
